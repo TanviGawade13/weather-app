@@ -17,7 +17,7 @@ A simple and interactive web application that lets users check the current weath
 ## 🧰 Technologies Used
 
 * **HTML5** – For the app structure.
-* **CSS3** – For styling (file: `style.css`).
+* **CSS3** – For styling.
 * **JavaScript (ES6)** – For API integration and dynamic updates.
 * **OpenWeatherMap API** – For fetching real-time weather data.
 
@@ -29,7 +29,7 @@ A simple and interactive web application that lets users check the current weath
 📦 Weather App
 ├── index.html         # Main HTML file
 ├── script.js          # JavaScript logic and API calls
-├── style.css          # Styling (not included in upload but required)
+├── style.css          # Styling
 └── images/            # Folder with weather icons
      ├── search.png
      ├── rain.png
@@ -58,10 +58,13 @@ A simple and interactive web application that lets users check the current weath
 
 ---
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshots
 
-*(You can add a screenshot of your app here)*
+![Landing Page](image.png)
 
+![Results](image-1.png)
+
+![INvalid city name](image-2.png)
 ---
 
 ## 🧠 How It Works
