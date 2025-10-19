@@ -58,15 +58,6 @@ A simple and interactive web application that lets users check the current weath
 
 ---
 
-## 📸 Screenshots
-
-![Landing Page](image.png)
-
-![Results](image-1.png)
-
-![INvalid city name](image-2.png)
----
-
 ## 🧠 How It Works
 
 1. User enters a city name.
